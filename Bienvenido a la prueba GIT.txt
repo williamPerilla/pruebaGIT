@@ -1,0 +1,23 @@
+Bienvenido a la prueba GIT.
+
+Si llego a este punto, va por buen camino.
+
+Puede ser util leer la siguiente documentacion:
+
+    Como documentar en JavaScript:
+         http://usejsdoc.org/
+
+    Comments en HTML
+         http://www.w3schools.com/tags/tag_comment.asp
+
+
+Estas notas pueden ser utiles:
+
+1. Un repositorio en Git hub puede ser clonado, pero no puede hacer operaciones de push. ver https://git-scm.com/docs/git-clone y https://git-scm.com/docs/git-status
+
+2. Un fork es clonar un repositorio GIT como un repositorio propio  http://aprendegit.com/fork-de-repositorios-para-que-sirve/
+
+3. Un pull request es la forma de pedir al autor de un codigo en un repositorio especifico apropiarse de los cambios que usted hizo. https://help.github.com/articles/using-pull-requests/
+
+
+ 
